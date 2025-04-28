@@ -1,1 +1,1 @@
-# LittleLemonAPI
+My Virtual invironment is .venv activate it with the following command: .\.venv\Scripts\activate in the command prompt. 
